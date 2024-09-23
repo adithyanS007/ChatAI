@@ -1,0 +1,61 @@
+/* homePage.css */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    height: 100vh; /* Full viewport height */
+    text-align: center; /* Center text inside elements */
+    padding: 1rem;
+}
+
+.logo {
+    margin-bottom: 1rem;
+}
+
+.logo-image {
+    width: 32rem; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: -10rem;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: Georgia, serif;
+    margin-bottom: 1rem;
+    color: rgb(255,255,255)
+}
+
+p {
+    font-size: 1.2rem;
+    font-family: tahoma;
+    margin-bottom: 2rem;
+    color: rgb(255,255,255);
+}
+
+button {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    margin-top: 1rem; /* Add margin to separate it from other elements */
+    /* No additional centering styles needed as the container is centered */
+}
+
+button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+button:active {
+    background-color: #004085;
+}
+#front{
+    align-self: center;
+    display: flex;
+
+}
