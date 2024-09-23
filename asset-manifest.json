@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ChatAI/static/css/main.b9e0363f.css",
+    "main.js": "/ChatAI/static/js/main.fbe2bbf1.js",
+    "static/js/453.ac0634c6.chunk.js": "/ChatAI/static/js/453.ac0634c6.chunk.js",
+    "static/media/bg-video2.mp4": "/ChatAI/static/media/bg-video2.65861429380b680303c5.mp4",
+    "static/media/nexus.png": "/ChatAI/static/media/nexus.c18a43b9f34397475474.png",
+    "index.html": "/ChatAI/index.html",
+    "main.b9e0363f.css.map": "/ChatAI/static/css/main.b9e0363f.css.map",
+    "main.fbe2bbf1.js.map": "/ChatAI/static/js/main.fbe2bbf1.js.map",
+    "453.ac0634c6.chunk.js.map": "/ChatAI/static/js/453.ac0634c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9e0363f.css",
+    "static/js/main.fbe2bbf1.js"
+  ]
+}
